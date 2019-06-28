@@ -1,0 +1,9 @@
+.idea/**/*.*
+.idea/*
+*.swp
+*.un~
+public/data*
+.DS_Store
+
+
+*.iml
